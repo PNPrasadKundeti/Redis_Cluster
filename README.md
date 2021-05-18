@@ -53,7 +53,7 @@ Pushed into the Redis cluster
 
  
 3. Download and install Redis Enterprise GA version on EC2 Instance 2 using the no DNS option.
-   A) Use "wget https://s3.amazonaws.com/redis-enterprise-software-downloads/6.0.20/redislabs-6.0.20-69-xenial-amd64.tar"
+   A) Use "wget <Redis enterprise URL link>"
 
 Installation of Redis Enterprise:
 
@@ -92,7 +92,7 @@ ALL TESTS PASSED.
 
 2021-05-16 22:59:54.156 [!] Please logout and login again to make sure all environment changes are applied.
 2021-05-16 22:59:54.158 [!] Point your browser at the following URL to continue:
-2021-05-16 22:59:54.162 [!] https://192.168.0.62:8443
+2021-05-16 22:59:54.162 [!] https://<IPAddress>:8443
 ￼
 
 Step 5: Access the URL with in the console
